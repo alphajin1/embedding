@@ -1,3 +1,6 @@
+# without docker version + tf2
+alphajin1 (개인목적용)
+
 # embedding tutorials
 본 레파지토리는 자연언어처리의 근간이 되는 각종 임베딩 기법들에 관련한 튜토리얼입니다. 한국어 처리를 염두에 두고 작성됐습니다. 본 레파지토리에 있는 코드를 실행하면 `corpus preprocess`, `embedding`, `fine-tuning` 등을 수행할 수 있습니다. 이 모든 과정을 안내하는 튜토리얼 페이지는 다음과 같습니다. 
 
